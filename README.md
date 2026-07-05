@@ -21,4 +21,4 @@ Welcome to my renewable energy engineering portfolio. This repository documents 
 ---
 
 ## 📸 Project Gallery & Visual Proof
-![10Kva System Installation](10kva sytem installed.jpg)
+![10Kva System Installation](10kva system installed.jpeg)
