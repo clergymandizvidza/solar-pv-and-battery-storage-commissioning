@@ -1,24 +1,88 @@
-# solar-pv-and-battery-storage-commissioning
-Renewable energy portfolio documenting the structural layout, electrical wiring, and commissioning of residential and institutional solar PV arrays, hybrid inverters, and battery storage systems (BESS)
-# ☀️ Solar PV Array & Battery Storage Commissioning (BESS)
+🌞 Solar PV & Battery Storage Commissioning Portfolio
+Professional Engineering Documentation — Residential & Institutional Systems  
 
-Welcome to my renewable energy engineering portfolio. This repository documents my practical experience in the design configuration, physical mounting, electrical wiring, and safety commissioning of decentralized solar photovoltaic (PV) arrays and hybrid energy storage infrastructure.
+This portfolio showcases hands‑on technical work in decentralized solar photovoltaic (PV) systems, hybrid inverter configuration, battery energy storage systems (BESS), and electrical protection commissioning. It includes structural layouts, wiring schematics, safety integration, and visual proof of completed installations.
 
-## 🛠️ Core Technical Competencies Demonstrated
+🧰 Core Technical Competencies
+1. DC & AC Power Electronics
+Hybrid & grid‑tied inverter installation
 
-### 1. DC & AC Power Electronics
-* **Inverter Technology:** Installation and parameter configuration of hybrid and grid-tied solar inverters, managing optimal DC-to-AC power inversion loops.
-* **String Alignment:** Engineering the electrical layout, string calculations, and voltage balancing for domestic house rooftops and large-scale educational institution arrays.
+Parameter configuration for DC‑AC conversion
 
-### 2. Battery Energy Storage Systems (BESS)
-* **Battery Bank Integration:** Safe installation, terminal torque wiring, and containment management of lithium-ion and deep-cycle battery cells for off-grid or hybrid energy storage.
-* **Charge Controller Calibration:** Programming charge regulators and Battery Management Systems (BMS) to manage charge/discharge profiles and ensure maximum cell longevity.
+String layout engineering
 
-### 3. Electrical Protection & Grounding
-* **Safety Isolation:** Integrating dedicated DC isolators, AC surge protection devices (SPDs), and high-voltage string fuses to protect components against systemic faults.
-* **System Earthing:** Installing robust grounding rods and bonding connections to guarantee absolute operator safety and lightning mitigation.
+Voltage balancing for domestic and institutional arrays
 
----
+2. Battery Energy Storage Systems (BESS)
+Lithium‑ion & deep‑cycle battery bank installation
 
-## 📸 Project Gallery & Visual Proof
+Terminal torqueing & containment safety
+
+Charge controller & BMS calibration
+
+Charge/discharge profile programming
+
+3. Electrical Protection & Grounding
+DC isolators, AC SPDs, high‑voltage fuses
+
+Ground rod installation & bonding
+
+Lightning mitigation & operator safety
+
+System isolation and commissioning checks
+
+🏠 Project Categories
+Residential Systems
+Rooftop PV arrays
+
+Hybrid inverter setups
+
+Consumer board rewiring
+
+Domestic battery storage integration
+
+Institutional Systems
+School PV installations
+
+Multi‑string array configuration
+
+High‑capacity inverter commissioning
+
+Safety protection for large‑scale systems
+
+📸 Project Gallery
+10KVA System Installation
 ![10Kva System Installation](10kva system installed.jpeg)
+
+Boarding School PV Installation
+![Boarding School PV Installation](Boarding school PV installation.jpeg)
+
+Domestic 3‑Phase Solar Wiring
+![Domestic 3‑Phase Solar Wiring](Domestic 3 phase solar system wiring.jpeg)
+
+Consumer Board Wiring — Before
+![Consumer Board Wiring (Before)](Domestic consumer switch board wiring (before).jpeg)
+
+Consumer Board Wiring — After
+![Consumer Board Wiring (After)](Domestic consumer switch board wiring(after).jpeg)
+
+Domestic PV Installation
+![Domestic PV Installation](Domestic pv installation.jpeg)
+
+Inverter Configuration
+![Inverter Configuration](Inerter configuration.jpeg)
+
+Private School PV Installation
+![Private School PV Installation](Private school PV installation.jpeg)
+
+Air Conditioner Maintenance
+![Air Conditioner Maintenance](air conditioner maintenance.jpeg)
+
+Domestic Solar Installation
+![Domestic Solar Installation](domestic solar installation.jpeg)
+
+Roof PV Installation
+![Roof PV Installation](roof pv installation.jpeg)
+
+Solar Inverter Configuration
+![Solar Inverter Configuration](solar inverter configuration.jpeg)
