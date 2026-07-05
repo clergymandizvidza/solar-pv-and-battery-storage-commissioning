@@ -21,4 +21,4 @@ Welcome to my renewable energy engineering portfolio. This repository documents 
 ---
 
 ## 📸 Project Gallery & Visual Proof
-*(Upload your neat solar array photos, inverter mounting layouts, and battery bank terminal wiring pictures in this section)*
+![10Kva System Installation](10kva sytem installed.jpg)
